@@ -1,0 +1,29 @@
+git komandalari:
+
+git init
+
+git add . (hammas faylni qoshish)
+
+git commit  -m => versiya yaratish "kod haqida qisqa habar"
+
+
+git log => hozirgi loyiha holatini ko'rsatadi
+
+
+
+
+
+Branchlar bilan ishlash:
+
+
+yangi branch yaratish:
+git checkout -b "brach nomi"
+
+
+Branchga o'tish:
+git checkout "branch nomi"
+
+
+
+Branchlarni qo'shish:
+git merge "qo'shmoqchi bo'lgan branch nomi"
